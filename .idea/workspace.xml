@@ -9,15 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a546134-ec14-404a-bc42-045d60d1ded6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/AutomationFramework_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/apiDTO/ApiDefinitionDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/starter/AppStarter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/starter/FrameworkApis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+    <list default="true" id="7a546134-ec14-404a-bc42-045d60d1ded6" name="Changes" comment="MVP with mock data">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,12 +97,24 @@
       <workItem from="1680963161963" duration="896000" />
       <workItem from="1680964069059" duration="1984000" />
       <workItem from="1680966231808" duration="1921000" />
-      <workItem from="1680970616797" duration="2698000" />
+      <workItem from="1680970616797" duration="4737000" />
     </task>
+    <task id="LOCAL-00001" summary="MVP with mock data">
+      <created>1680984524734</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680984524734</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="MVP with mock data" />
+    <option name="LAST_COMMIT_MESSAGE" value="MVP with mock data" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
